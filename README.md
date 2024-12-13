@@ -46,8 +46,6 @@ The `main` function handles the entire process of training and evaluating the QA
 
 ## Results
 
-## Results
-
 ### Training and Validation
 - **Epoch 1**:
   - **Train Loss**: 3.7811
